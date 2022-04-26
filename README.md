@@ -5,5 +5,5 @@ Web for suryodaya school using HTML, CSS, JS, Tailwind
 
 ## Preview
 
-![App Screenshot](screenshot342.png)
+![App Screenshot](/Screenshot(342).png)
 
