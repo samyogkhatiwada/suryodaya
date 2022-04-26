@@ -4,7 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
-  scroll-behavior: smooth;
+  scroll-behavior: smooth !important;
 }
 /* custom scroll bar */
 ::-webkit-scrollbar {
@@ -61,7 +61,7 @@
   transition: all 0.3s ease;
 }
 .menu-list li a:hover {
-  color: #007bff;
+  color: #111;
 }
 .banner {
   /* background: url("https://images.unsplash.com/photo-1608507974219-2df72d775da0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80") no-repeat; */
